@@ -1,1 +1,1 @@
-This isn't a project where I build complex machine learning or deep learning model to improve. Rather I will try building models from scratch (with some help from the internet), to get an in-depth understanding of how to models works under the hood.
+This isn't a project where I build complex machine learning or deep learning model to improve accuracy. Rather I will try building models from scratch (with some help from the internet), to get an in-depth understanding of how to models works under the hood.
